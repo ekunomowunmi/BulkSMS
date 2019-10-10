@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "BulkSms",
   "engines": {
-    "node": "10.14.20"
+    "node": "6.11.1"
   },
   "main": "app.js",
   "dependencies": {
