@@ -2,6 +2,9 @@
   "name": "bulksms",
   "version": "1.0.0",
   "description": "BulkSms",
+  "engines": {
+    "node": "10.14.20"
+  },
   "main": "app.js",
   "dependencies": {
     "dateformat": "^3.0.3",
