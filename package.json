@@ -1,0 +1,27 @@
+{
+  "name": "bulksms",
+  "version": "1.0.0",
+  "description": "BulkSms",
+  "main": "app.js",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "firebase": "^7.1.0",
+    "https": "^1.0.0",
+    "node-schedule": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekunomowunmi/BulkSms.git"
+  },
+  "author": "Omowunmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekunomowunmi/BulkSms/issues"
+  },
+  "homepage": "https://github.com/ekunomowunmi/BulkSms#readme"
+}
