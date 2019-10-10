@@ -2,7 +2,7 @@
   "name": "bulksms",
   "version": "1.0.0",
   "description": "BulkSms",
-  "main": "app.js", 
+  "main": "app.js",
   "dependencies": {
     "dateformat": "^3.0.3",
     "express": "^4.17.1",
